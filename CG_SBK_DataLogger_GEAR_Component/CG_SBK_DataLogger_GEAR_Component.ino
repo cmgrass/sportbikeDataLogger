@@ -13,7 +13,7 @@
  * D7: 7
 */
 
-// Include Liquid Crystal Display Library:
+// Include LCD Library:
 #include <LiquidCrystal.h>
 
 // Define Variables:
